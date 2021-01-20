@@ -28,3 +28,5 @@ If you want to contribute with
 - Examples or validation data
 
 do not hesistate to contact the authors at [this email](mailto:ssack@kth.se) address.  
+
+相关文献：acdecom—A Python module for acoustic wave decomposition in flow ducts https://www.sciencedirect.com/science/article/pii/S2665963820300166
